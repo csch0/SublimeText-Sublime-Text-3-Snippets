@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.replace(${2:edit}, ${3:region}, ${4:string})]]></content>
+	<tabTrigger>view_replace</tabTrigger>
+	<description>view.replace</description>
+	<scope>source.python</scope>
+	</snippet>

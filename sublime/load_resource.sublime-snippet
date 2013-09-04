@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sublime.load_resource(${1:name})]]></content>
+	<tabTrigger>sublime_load_resource</tabTrigger>
+	<description>sublime.load_resource</description>
+	<scope>source.python</scope>
+	</snippet>

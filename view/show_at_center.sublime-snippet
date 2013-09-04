@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.show_at_center(${2:region})]]></content>
+	<tabTrigger>view_show_at_center</tabTrigger>
+	<description>view.show_at_center</description>
+	<scope>source.python</scope>
+	</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sublime.set_async_timeout(${1:callback}, ${2:delay})]]></content>
+	<tabTrigger>sublime_set_async_timeout</tabTrigger>
+	<description>sublime.set_async_timeout</description>
+	<scope>source.python</scope>
+	</snippet>

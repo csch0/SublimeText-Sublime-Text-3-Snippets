@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.add_regions(${2:key}, ${3:[regions]}, ${4:<scope>}, ${5:<icon>}, ${6:<flags>})]]></content>
+	<tabTrigger>view_add_regions</tabTrigger>
+	<description>view.add_regions</description>
+	<scope>source.python</scope>
+	</snippet>

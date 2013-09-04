@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.find_all(${2:pattern}, ${3:<flags>}, ${4:<format>}, ${5:<extractions>})]]></content>
+	<tabTrigger>view_find_all</tabTrigger>
+	<description>view.find_all</description>
+	<scope>source.python</scope>
+	</snippet>

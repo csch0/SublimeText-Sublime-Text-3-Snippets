@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:window}.active_group()]]></content>
+	<tabTrigger>window_active_group</tabTrigger>
+	<description>window.active_group</description>
+	<scope>source.python</scope>
+	</snippet>

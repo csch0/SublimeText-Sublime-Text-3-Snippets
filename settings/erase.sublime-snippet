@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:settings}.erase(${2:name})]]></content>
+	<tabTrigger>settings_erase</tabTrigger>
+	<description>settings.erase</description>
+	<scope>source.python</scope>
+	</snippet>

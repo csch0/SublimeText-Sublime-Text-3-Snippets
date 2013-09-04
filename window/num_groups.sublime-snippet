@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:window}.num_groups()]]></content>
+	<tabTrigger>window_num_groups</tabTrigger>
+	<description>window.num_groups</description>
+	<scope>source.python</scope>
+	</snippet>

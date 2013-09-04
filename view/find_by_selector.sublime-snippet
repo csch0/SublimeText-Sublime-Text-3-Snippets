@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.find_by_selector(${2:selector})]]></content>
+	<tabTrigger>view_find_by_selector</tabTrigger>
+	<description>view.find_by_selector</description>
+	<scope>source.python</scope>
+	</snippet>

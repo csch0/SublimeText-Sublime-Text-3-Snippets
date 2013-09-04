@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sublime.version()]]></content>
+	<tabTrigger>sublime_version</tabTrigger>
+	<description>sublime.version</description>
+	<scope>source.python</scope>
+	</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:region}.end()]]></content>
+	<tabTrigger>region_end</tabTrigger>
+	<description>region.end</description>
+	<scope>source.python</scope>
+	</snippet>

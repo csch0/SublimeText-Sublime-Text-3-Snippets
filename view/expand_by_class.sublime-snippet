@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.expand_by_class(${2:region}, ${3:classes}, ${4:<separators>})]]></content>
+	<tabTrigger>view_expand_by_class</tabTrigger>
+	<description>view.expand_by_class</description>
+	<scope>source.python</scope>
+	</snippet>

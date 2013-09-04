@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.substr(${2:point})]]></content>
+	<tabTrigger>view_substr</tabTrigger>
+	<description>view.substr</description>
+	<scope>source.python</scope>
+	</snippet>

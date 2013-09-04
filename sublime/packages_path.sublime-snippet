@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sublime.packages_path()]]></content>
+	<tabTrigger>sublime_packages_path</tabTrigger>
+	<description>sublime.packages_path</description>
+	<scope>source.python</scope>
+	</snippet>

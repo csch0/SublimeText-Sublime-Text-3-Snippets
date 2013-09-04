@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sublime.cache_path()]]></content>
+	<tabTrigger>sublime_cache_path</tabTrigger>
+	<description>sublime.cache_path</description>
+	<scope>source.python</scope>
+	</snippet>

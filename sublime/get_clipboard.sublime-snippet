@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sublime.get_clipboard(${1:<size_limit>})]]></content>
+	<tabTrigger>sublime_get_clipboard</tabTrigger>
+	<description>sublime.get_clipboard</description>
+	<scope>source.python</scope>
+	</snippet>

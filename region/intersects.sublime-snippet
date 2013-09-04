@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:region}.intersects(${2:region})]]></content>
+	<tabTrigger>region_intersects</tabTrigger>
+	<description>region.intersects</description>
+	<scope>source.python</scope>
+	</snippet>

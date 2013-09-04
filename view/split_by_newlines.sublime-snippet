@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.split_by_newlines(${2:region})]]></content>
+	<tabTrigger>view_split_by_newlines</tabTrigger>
+	<description>view.split_by_newlines</description>
+	<scope>source.python</scope>
+	</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sublime.encode_value(${1:value}, ${2:<pretty>})]]></content>
+	<tabTrigger>sublime_encode_value</tabTrigger>
+	<description>sublime.encode_value</description>
+	<scope>source.python</scope>
+	</snippet>

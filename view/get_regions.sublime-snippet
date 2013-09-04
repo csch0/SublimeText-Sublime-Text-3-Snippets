@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.get_regions(${2:key})]]></content>
+	<tabTrigger>view_get_regions</tabTrigger>
+	<description>view.get_regions</description>
+	<scope>source.python</scope>
+	</snippet>

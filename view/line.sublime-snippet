@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.line(${2:region})]]></content>
+	<tabTrigger>view_line</tabTrigger>
+	<description>view.line</description>
+	<scope>source.python</scope>
+	</snippet>

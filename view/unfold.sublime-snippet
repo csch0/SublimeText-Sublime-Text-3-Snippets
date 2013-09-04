@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.unfold(${2:[regions]})]]></content>
+	<tabTrigger>view_unfold</tabTrigger>
+	<description>view.unfold</description>
+	<scope>source.python</scope>
+	</snippet>

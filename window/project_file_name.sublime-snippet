@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:window}.project_file_name()]]></content>
+	<tabTrigger>window_project_file_name</tabTrigger>
+	<description>window.project_file_name</description>
+	<scope>source.python</scope>
+	</snippet>

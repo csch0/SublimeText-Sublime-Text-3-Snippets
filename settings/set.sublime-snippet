@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:settings}.set(${2:name}, ${3:value})]]></content>
+	<tabTrigger>settings_set</tabTrigger>
+	<description>settings.set</description>
+	<scope>source.python</scope>
+	</snippet>

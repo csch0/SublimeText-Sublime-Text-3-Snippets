@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.layout_extent()]]></content>
+	<tabTrigger>view_layout_extent</tabTrigger>
+	<description>view.layout_extent</description>
+	<scope>source.python</scope>
+	</snippet>

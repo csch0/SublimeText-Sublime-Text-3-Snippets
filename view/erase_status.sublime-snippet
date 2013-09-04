@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.erase_status(${2:key})]]></content>
+	<tabTrigger>view_erase_status</tabTrigger>
+	<description>view.erase_status</description>
+	<scope>source.python</scope>
+	</snippet>

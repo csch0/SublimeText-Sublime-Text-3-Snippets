@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.is_scratch()]]></content>
+	<tabTrigger>view_is_scratch</tabTrigger>
+	<description>view.is_scratch</description>
+	<scope>source.python</scope>
+	</snippet>

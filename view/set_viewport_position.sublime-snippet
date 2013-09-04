@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.set_viewport_position(${2:vector}, ${3:<animate<})]]></content>
+	<tabTrigger>view_set_viewport_position</tabTrigger>
+	<description>view.set_viewport_position</description>
+	<scope>source.python</scope>
+	</snippet>

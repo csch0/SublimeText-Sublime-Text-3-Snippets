@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.is_dirty()]]></content>
+	<tabTrigger>view_is_dirty</tabTrigger>
+	<description>view.is_dirty</description>
+	<scope>source.python</scope>
+	</snippet>

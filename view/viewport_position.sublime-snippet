@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.viewport_position()]]></content>
+	<tabTrigger>view_viewport_position</tabTrigger>
+	<description>view.viewport_position</description>
+	<scope>source.python</scope>
+	</snippet>

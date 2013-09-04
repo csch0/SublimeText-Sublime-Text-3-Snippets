@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.show_popup_menu(${2:items}, ${3:on_done}, ${4:<flags>})]]></content>
+	<tabTrigger>view_show_popup_menu</tabTrigger>
+	<description>view.show_popup_menu</description>
+	<scope>source.python</scope>
+	</snippet>

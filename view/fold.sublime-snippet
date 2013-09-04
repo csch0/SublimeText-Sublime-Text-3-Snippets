@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.fold(${2:region})]]></content>
+	<tabTrigger>view_fold</tabTrigger>
+	<description>view.fold</description>
+	<scope>source.python</scope>
+	</snippet>

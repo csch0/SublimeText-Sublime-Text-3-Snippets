@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:settings}.has(${2:name})]]></content>
+	<tabTrigger>settings_has</tabTrigger>
+	<description>settings.has</description>
+	<scope>source.python</scope>
+	</snippet>

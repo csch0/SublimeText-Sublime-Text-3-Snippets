@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.change_count()]]></content>
+	<tabTrigger>view_change_count</tabTrigger>
+	<description>view.change_count</description>
+	<scope>source.python</scope>
+	</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sublime.log_input(${1:flag})]]></content>
+	<tabTrigger>sublime_log_input</tabTrigger>
+	<description>sublime.log_input</description>
+	<scope>source.python</scope>
+	</snippet>

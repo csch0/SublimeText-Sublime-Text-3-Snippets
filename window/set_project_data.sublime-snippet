@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:window}.set_project_data(${2:data})]]></content>
+	<tabTrigger>window_set_project_data</tabTrigger>
+	<description>window.set_project_data</description>
+	<scope>source.python</scope>
+	</snippet>

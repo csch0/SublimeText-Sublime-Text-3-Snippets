@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sublime.find_resources(${1:pattern})]]></content>
+	<tabTrigger>sublime_find_resources</tabTrigger>
+	<description>sublime.find_resources</description>
+	<scope>source.python</scope>
+	</snippet>

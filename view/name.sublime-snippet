@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.name()]]></content>
+	<tabTrigger>view_name</tabTrigger>
+	<description>view.name</description>
+	<scope>source.python</scope>
+	</snippet>

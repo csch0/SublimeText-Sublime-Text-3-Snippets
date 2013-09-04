@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.is_loading()]]></content>
+	<tabTrigger>view_is_loading</tabTrigger>
+	<description>view.is_loading</description>
+	<scope>source.python</scope>
+	</snippet>

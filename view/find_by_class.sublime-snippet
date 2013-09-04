@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.find_by_class(${2:point}, ${3:forward}, ${4:classes}, ${5:<separators>})]]></content>
+	<tabTrigger>view_find_by_class</tabTrigger>
+	<description>view.find_by_class</description>
+	<scope>source.python</scope>
+	</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:region}.size()]]></content>
+	<tabTrigger>region_size</tabTrigger>
+	<description>region.size</description>
+	<scope>source.python</scope>
+	</snippet>

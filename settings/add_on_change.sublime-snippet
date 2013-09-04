@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:settings}.add_on_change(${2:key}, ${3:on_change})]]></content>
+	<tabTrigger>settings_add_on_change</tabTrigger>
+	<description>settings.add_on_change</description>
+	<scope>source.python</scope>
+	</snippet>

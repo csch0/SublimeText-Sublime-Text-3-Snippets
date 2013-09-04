@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.rowcol(${2:point})]]></content>
+	<tabTrigger>view_rowcol</tabTrigger>
+	<description>view.rowcol</description>
+	<scope>source.python</scope>
+	</snippet>

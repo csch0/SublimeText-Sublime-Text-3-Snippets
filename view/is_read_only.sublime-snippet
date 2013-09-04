@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.is_read_only()]]></content>
+	<tabTrigger>view_is_read_only</tabTrigger>
+	<description>view.is_read_only</description>
+	<scope>source.python</scope>
+	</snippet>

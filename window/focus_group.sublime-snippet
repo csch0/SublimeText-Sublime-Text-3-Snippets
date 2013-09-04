@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:window}.focus_group(${2:group})]]></content>
+	<tabTrigger>window_focus_group</tabTrigger>
+	<description>window.focus_group</description>
+	<scope>source.python</scope>
+	</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.find(${2:pattern}, ${3:fromPosition}, ${4:<flags>})]]></content>
+	<tabTrigger>view_find</tabTrigger>
+	<description>view.find</description>
+	<scope>source.python</scope>
+	</snippet>

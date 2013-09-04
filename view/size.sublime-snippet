@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.size()]]></content>
+	<tabTrigger>view_size</tabTrigger>
+	<description>view.size</description>
+	<scope>source.python</scope>
+	</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.buffer_id()]]></content>
+	<tabTrigger>view_buffer_id</tabTrigger>
+	<description>view.buffer_id</description>
+	<scope>source.python</scope>
+	</snippet>

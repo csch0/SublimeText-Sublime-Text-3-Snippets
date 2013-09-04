@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.symbols(${2:line_endings})]]></content>
+	<tabTrigger>view_symbols</tabTrigger>
+	<description>view.symbols</description>
+	<scope>source.python</scope>
+	</snippet>

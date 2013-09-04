@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.word(${2:region})]]></content>
+	<tabTrigger>view_word</tabTrigger>
+	<description>view.word</description>
+	<scope>source.python</scope>
+	</snippet>

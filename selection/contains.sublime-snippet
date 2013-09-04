@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:selection}.contains(${2:region})]]></content>
+	<tabTrigger>selection_contains</tabTrigger>
+	<description>selection.contains</description>
+	<scope>source.python</scope>
+	</snippet>

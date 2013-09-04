@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.command_history(${2:index}, ${3:<modifying_only>})]]></content>
+	<tabTrigger>view_command_history</tabTrigger>
+	<description>view.command_history</description>
+	<scope>source.python</scope>
+	</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sublime.score_selector(${1:scope}, ${2:selector})]]></content>
+	<tabTrigger>sublime_score_selector</tabTrigger>
+	<description>sublime.score_selector</description>
+	<scope>source.python</scope>
+	</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:window}.find_open_file(${2:file_name})]]></content>
+	<tabTrigger>window_find_open_file</tabTrigger>
+	<description>window.find_open_file</description>
+	<scope>source.python</scope>
+	</snippet>

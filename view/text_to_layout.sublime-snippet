@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.text_to_layout(${2:point})]]></content>
+	<tabTrigger>view_text_to_layout</tabTrigger>
+	<description>view.text_to_layout</description>
+	<scope>source.python</scope>
+	</snippet>

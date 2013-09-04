@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.get_status(${2:key})]]></content>
+	<tabTrigger>view_get_status</tabTrigger>
+	<description>view.get_status</description>
+	<scope>source.python</scope>
+	</snippet>

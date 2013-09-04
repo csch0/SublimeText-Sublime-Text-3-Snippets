@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:commands}.run(${2:<args>})]]></content>
+	<tabTrigger>run</tabTrigger>
+	<description>commands.run</description>
+	<scope>source.python</scope>
+	</snippet>

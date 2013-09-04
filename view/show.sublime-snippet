@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.show(${2:region_set}, ${3:<show_surrounds>})]]></content>
+	<tabTrigger>view_show</tabTrigger>
+	<description>view.show</description>
+	<scope>source.python</scope>
+	</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:settings}.clear_on_change(${2:key})]]></content>
+	<tabTrigger>settings_clear_on_change</tabTrigger>
+	<description>settings.clear_on_change</description>
+	<scope>source.python</scope>
+	</snippet>

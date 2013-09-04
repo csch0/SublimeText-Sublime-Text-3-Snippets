@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:window}.focus_view(${2:view})]]></content>
+	<tabTrigger>window_focus_view</tabTrigger>
+	<description>window.focus_view</description>
+	<scope>source.python</scope>
+	</snippet>

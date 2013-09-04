@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sublime.message_dialog(${1:string})]]></content>
+	<tabTrigger>sublime_message_dialog</tabTrigger>
+	<description>sublime.message_dialog</description>
+	<scope>source.python</scope>
+	</snippet>

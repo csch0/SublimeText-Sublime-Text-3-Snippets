@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sublime.platform()]]></content>
+	<tabTrigger>sublime_platform</tabTrigger>
+	<description>sublime.platform</description>
+	<scope>source.python</scope>
+	</snippet>

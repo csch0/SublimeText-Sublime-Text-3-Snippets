@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:window}.lookup_symbol_in_index(${2:symbol})]]></content>
+	<tabTrigger>window_lookup_symbol_in_index</tabTrigger>
+	<description>window.lookup_symbol_in_index</description>
+	<scope>source.python</scope>
+	</snippet>

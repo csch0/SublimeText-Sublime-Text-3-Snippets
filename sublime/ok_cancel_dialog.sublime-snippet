@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sublime.ok_cancel_dialog(${1:string}, ${2:<ok_button>})]]></content>
+	<tabTrigger>sublime_ok_cancel_dialog</tabTrigger>
+	<description>sublime.ok_cancel_dialog</description>
+	<scope>source.python</scope>
+	</snippet>

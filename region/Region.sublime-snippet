@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Region(${1:a}, ${2:b})]]></content>
+	<tabTrigger>Region</tabTrigger>
+	<description>Region</description>
+	<scope>source.python</scope>
+	</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[class $1Command(sublime_plugin.TextCommand):
+
+	def run(self, edit):
+
+		$0]]></content>
+	<tabTrigger>TextCommand</tabTrigger>
+	<description>sublime_plugin.TextCommand</description>
+	<scope>source.python</scope>
+	</snippet>

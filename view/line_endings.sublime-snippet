@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.line_endings()]]></content>
+	<tabTrigger>view_line_endings</tabTrigger>
+	<description>view.line_endings</description>
+	<scope>source.python</scope>
+	</snippet>

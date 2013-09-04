@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.file_name()]]></content>
+	<tabTrigger>view_file_name</tabTrigger>
+	<description>view.file_name</description>
+	<scope>source.python</scope>
+	</snippet>

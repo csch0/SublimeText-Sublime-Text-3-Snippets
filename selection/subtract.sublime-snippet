@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:selection}.subtract(${2:region})]]></content>
+	<tabTrigger>selection_subtract</tabTrigger>
+	<description>selection.subtract</description>
+	<scope>source.python</scope>
+	</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.extract_scope(${2:point})]]></content>
+	<tabTrigger>view_extract_scope</tabTrigger>
+	<description>view.extract_scope</description>
+	<scope>source.python</scope>
+	</snippet>

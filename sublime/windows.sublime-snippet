@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sublime.windows()]]></content>
+	<tabTrigger>sublime_windows</tabTrigger>
+	<description>sublime.windows</description>
+	<scope>source.python</scope>
+	</snippet>

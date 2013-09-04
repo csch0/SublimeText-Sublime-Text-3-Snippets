@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.id()]]></content>
+	<tabTrigger>view_id</tabTrigger>
+	<description>view.id</description>
+	<scope>source.python</scope>
+	</snippet>

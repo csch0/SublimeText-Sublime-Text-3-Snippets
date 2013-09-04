@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[def on_clone(${2:view}):]]></content>
+	<tabTrigger>on_clone</tabTrigger>
+	<description>eventlistener.on_clone</description>
+	<scope>source.python</scope>
+	</snippet>

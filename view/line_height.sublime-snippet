@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.line_height()]]></content>
+	<tabTrigger>view_line_height</tabTrigger>
+	<description>view.line_height</description>
+	<scope>source.python</scope>
+	</snippet>

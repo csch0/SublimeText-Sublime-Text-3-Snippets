@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.score_selector(${2:point}, ${3:selector})]]></content>
+	<tabTrigger>view_score_selector</tabTrigger>
+	<description>view.score_selector</description>
+	<scope>source.python</scope>
+	</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sublime.arch()]]></content>
+	<tabTrigger>sublime_arch</tabTrigger>
+	<description>sublime.arch</description>
+	<scope>source.python</scope>
+	</snippet>

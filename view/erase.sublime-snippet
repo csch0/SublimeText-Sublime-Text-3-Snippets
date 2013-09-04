@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.erase(${2:edit}, ${3:region})]]></content>
+	<tabTrigger>view_erase</tabTrigger>
+	<description>view.erase</description>
+	<scope>source.python</scope>
+	</snippet>

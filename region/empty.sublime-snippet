@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:region}.empty()]]></content>
+	<tabTrigger>region_empty</tabTrigger>
+	<description>region.empty</description>
+	<scope>source.python</scope>
+	</snippet>

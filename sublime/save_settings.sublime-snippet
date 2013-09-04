@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sublime.save_settings(${1:base_name})]]></content>
+	<tabTrigger>sublime_save_settings</tabTrigger>
+	<description>sublime.save_settings</description>
+	<scope>source.python</scope>
+	</snippet>

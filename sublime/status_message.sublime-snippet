@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sublime.status_message(${1:string})]]></content>
+	<tabTrigger>sublime_status_message</tabTrigger>
+	<description>sublime.status_message</description>
+	<scope>source.python</scope>
+	</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sublime.run_command(${1:string}, ${2:<args>})]]></content>
+	<tabTrigger>sublime_run_command</tabTrigger>
+	<description>sublime.run_command</description>
+	<scope>source.python</scope>
+	</snippet>

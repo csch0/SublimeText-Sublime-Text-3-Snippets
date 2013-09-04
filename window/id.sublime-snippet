@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:window}.id()]]></content>
+	<tabTrigger>window_id</tabTrigger>
+	<description>window.id</description>
+	<scope>source.python</scope>
+	</snippet>

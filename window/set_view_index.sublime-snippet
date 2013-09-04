@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:window}.set_view_index(${2:view}, ${3:group}, ${4:index})]]></content>
+	<tabTrigger>window_set_view_index</tabTrigger>
+	<description>window.set_view_index</description>
+	<scope>source.python</scope>
+	</snippet>

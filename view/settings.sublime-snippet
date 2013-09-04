@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.settings()]]></content>
+	<tabTrigger>view_settings</tabTrigger>
+	<description>view.settings</description>
+	<scope>source.python</scope>
+	</snippet>

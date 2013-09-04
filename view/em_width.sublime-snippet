@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.em_width()]]></content>
+	<tabTrigger>view_em_width</tabTrigger>
+	<description>view.em_width</description>
+	<scope>source.python</scope>
+	</snippet>
