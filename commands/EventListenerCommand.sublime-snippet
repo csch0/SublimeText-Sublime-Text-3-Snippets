@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[class $1Command(sublime_plugin.EventListener):
+
+	$0]]></content>
+	<tabTrigger>EventListener</tabTrigger>
+	<description>sublime_plugin.EventListener</description>
+	<scope>source.python</scope>
+	</snippet>
