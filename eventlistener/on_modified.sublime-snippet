@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[def on_modified(${2:view}):]]></content>
+	<content><![CDATA[def on_modified(${1:self}, ${2:view}):]]></content>
 	<tabTrigger>on_modified</tabTrigger>
 	<description>eventlistener.on_modified</description>
 	<scope>source.python</scope>

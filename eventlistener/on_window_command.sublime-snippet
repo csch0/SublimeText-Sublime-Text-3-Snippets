@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[def on_window_command(${2:window}, ${3:command_name}, ${4:args}):]]></content>
+	<content><![CDATA[def on_window_command(${1:window}, ${2:command_name}, ${3:args}):]]></content>
 	<tabTrigger>on_window_command</tabTrigger>
 	<description>eventlistener.on_window_command</description>
 	<scope>source.python</scope>

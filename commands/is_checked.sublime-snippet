@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:commands}.is_checked(${2:<args>})]]></content>
+	<content><![CDATA[def is_checked(${1:self}, ${2:<args>}):]]></content>
 	<tabTrigger>is_checked</tabTrigger>
 	<description>commands.is_checked</description>
 	<scope>source.python</scope>

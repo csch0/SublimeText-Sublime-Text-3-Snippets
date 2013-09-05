@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[def on_pre_save(${2:view}):]]></content>
+	<content><![CDATA[def on_pre_save(${1:self}, ${2:view}):]]></content>
 	<tabTrigger>on_pre_save</tabTrigger>
 	<description>eventlistener.on_pre_save</description>
 	<scope>source.python</scope>

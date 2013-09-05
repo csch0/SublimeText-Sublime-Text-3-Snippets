@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[def on_query_context(${2:view}, ${3:key}, ${4:operator}, ${5:operand}, ${6:match_all}):]]></content>
+	<content><![CDATA[def on_query_context(${1:self}, ${2:view}, ${3:key}, ${4:operator}, ${5:operand}, ${6:match_all}):]]></content>
 	<tabTrigger>on_query_context</tabTrigger>
 	<description>eventlistener.on_query_context</description>
 	<scope>source.python</scope>

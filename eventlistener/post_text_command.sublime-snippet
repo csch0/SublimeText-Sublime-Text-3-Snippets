@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[def post_text_command(${2:view}, ${3:command_name}, ${4:args}):]]></content>
+	<content><![CDATA[def post_text_command(${1:self}, ${2:view}, ${3:command_name}, ${4:args}):]]></content>
 	<tabTrigger>post_text_command</tabTrigger>
 	<description>eventlistener.post_text_command</description>
 	<scope>source.python</scope>

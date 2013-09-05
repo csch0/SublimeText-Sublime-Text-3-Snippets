@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:commands}.is_visible(${2:<args>})]]></content>
+	<content><![CDATA[def is_visible(${1:self}, ${2:<args>}):]]></content>
 	<tabTrigger>is_visible</tabTrigger>
 	<description>commands.is_visible</description>
 	<scope>source.python</scope>

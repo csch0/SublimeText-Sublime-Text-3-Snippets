@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[def on_close(${2:view}):]]></content>
+	<content><![CDATA[def on_close(${1:self}, ${2:view}):]]></content>
 	<tabTrigger>on_close</tabTrigger>
 	<description>eventlistener.on_close</description>
 	<scope>source.python</scope>
