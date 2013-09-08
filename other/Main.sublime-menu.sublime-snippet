@@ -1,0 +1,30 @@
+<snippet>
+	<content><![CDATA[
+[
+	{
+		"id": "tools",
+		"children":
+		[
+			{
+				"caption": "Packages",
+				"id": "packages",
+				"children":
+				[
+					{
+						"caption": "${1:Package}",
+						"children":
+						[
+							{
+								"caption": "${2:Caption}",
+								"command": "${3:Command}", "args": {${4:Args}}
+							}$0
+						]
+					}
+				]
+			}
+		]
+	}
+]
+]]></content>
+	<description>Main.sublime-menu</description>
+	</snippet>

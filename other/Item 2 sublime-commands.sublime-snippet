@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{
+	"caption": "${1:Caption}",
+	"command": "${2:Command}", "args": {${3:Args}}
+}$0
+]]></content>
+	<description>Item for sublime-commands (caption, command, args)</description>
+	</snippet>
