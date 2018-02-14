@@ -3,4 +3,4 @@
 	<tabTrigger>view_set_line_endings</tabTrigger>
 	<description>view.set_line_endings</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

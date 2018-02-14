@@ -3,4 +3,4 @@
 	<tabTrigger>sublime_log_commands</tabTrigger>
 	<description>sublime.log_commands</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

@@ -3,4 +3,4 @@
 	<tabTrigger>window_lookup_symbol_in_open_files</tabTrigger>
 	<description>window.lookup_symbol_in_open_files</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

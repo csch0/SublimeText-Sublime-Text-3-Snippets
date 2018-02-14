@@ -1,6 +1,7 @@
 <snippet>
-	<content><![CDATA[def post_window_command(${1:window}, ${2:command_name}, ${3:args}):]]></content>
+	<content><![CDATA[def post_window_command(self, window, command_name, args):
+	${1:pass}]]></content>
 	<tabTrigger>post_window_command</tabTrigger>
 	<description>eventlistener.post_window_command</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

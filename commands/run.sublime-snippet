@@ -1,6 +1,7 @@
 <snippet>
-	<content><![CDATA[def run(${1:self}, ${2:<args>}):]]></content>
+	<content><![CDATA[def run(self, ${1:<args>}):
+	${2:pass}]]></content>
 	<tabTrigger>run</tabTrigger>
 	<description>commands.run</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

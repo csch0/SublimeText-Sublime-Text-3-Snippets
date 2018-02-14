@@ -3,4 +3,4 @@
 	<tabTrigger>view_substr</tabTrigger>
 	<description>view.substr</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

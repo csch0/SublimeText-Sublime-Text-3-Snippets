@@ -3,4 +3,4 @@
 	<tabTrigger>sublime_installed_packages_path</tabTrigger>
 	<description>sublime.installed_packages_path</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:window}.extract_variables()]]></content>
+    <tabTrigger>window_extract_variables</tabTrigger>
+    <description>window.extract_variables</description>
+    <scope>source.python</scope>
+</snippet>

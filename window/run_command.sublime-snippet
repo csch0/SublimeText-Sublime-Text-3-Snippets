@@ -3,4 +3,4 @@
 	<tabTrigger>window_run_command</tabTrigger>
 	<description>window.run_command</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

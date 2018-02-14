@@ -1,10 +1,8 @@
 <snippet>
-	<content><![CDATA[class $1Command(sublime_plugin.WindowCommand):
-
-	def run(self):
-
-		$0]]></content>
+	<content><![CDATA[class ${1:Example}Command(sublime_plugin.WindowCommand):
+	def run(self, ${2:<args>}):
+		${3:pass}]]></content>
 	<tabTrigger>WindowCommand</tabTrigger>
 	<description>sublime_plugin.WindowCommand</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

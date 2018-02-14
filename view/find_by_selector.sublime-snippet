@@ -3,4 +3,4 @@
 	<tabTrigger>view_find_by_selector</tabTrigger>
 	<description>view.find_by_selector</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

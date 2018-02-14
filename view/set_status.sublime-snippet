@@ -3,4 +3,4 @@
 	<tabTrigger>view_set_status</tabTrigger>
 	<description>view.set_status</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

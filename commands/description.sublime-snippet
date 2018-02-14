@@ -1,5 +1,6 @@
 <snippet>
-	<content><![CDATA[def description(${1:self}, ${2:<args>}):]]></content>
+	<content><![CDATA[def description(self, ${1:<args>}):
+	${2:pass}]]></content>
 	<tabTrigger>description</tabTrigger>
 	<description>commands.description</description>
 	<scope>source.python</scope>

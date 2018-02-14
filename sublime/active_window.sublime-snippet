@@ -3,4 +3,4 @@
 	<tabTrigger>sublime_active_window</tabTrigger>
 	<description>sublime.active_window</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

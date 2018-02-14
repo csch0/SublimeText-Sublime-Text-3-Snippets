@@ -3,4 +3,4 @@
 	<tabTrigger>sublime_set_timeout</tabTrigger>
 	<description>sublime.set_timeout</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

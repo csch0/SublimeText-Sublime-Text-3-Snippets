@@ -3,4 +3,4 @@
 	<tabTrigger>sublime_status_message</tabTrigger>
 	<description>sublime.status_message</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

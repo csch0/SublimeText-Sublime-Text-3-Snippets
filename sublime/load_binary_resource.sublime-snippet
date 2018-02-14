@@ -3,4 +3,4 @@
 	<tabTrigger>sublime_load_binary_resource</tabTrigger>
 	<description>sublime.load_binary_resource</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

@@ -3,4 +3,4 @@
 	<tabTrigger>window_find_open_file</tabTrigger>
 	<description>window.find_open_file</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

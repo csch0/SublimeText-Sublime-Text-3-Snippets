@@ -3,4 +3,4 @@
 	<tabTrigger>window_set_view_index</tabTrigger>
 	<description>window.set_view_index</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

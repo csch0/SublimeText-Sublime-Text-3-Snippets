@@ -3,4 +3,4 @@
 	<tabTrigger>window_create_output_panel</tabTrigger>
 	<description>window.create_output_panel</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

@@ -3,4 +3,4 @@
 	<tabTrigger>view_run_command</tabTrigger>
 	<description>view.run_command</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

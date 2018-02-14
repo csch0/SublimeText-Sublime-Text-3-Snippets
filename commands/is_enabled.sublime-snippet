@@ -1,6 +1,7 @@
 <snippet>
-	<content><![CDATA[def is_enabled(${1:self}, ${2:<args>}):]]></content>
+	<content><![CDATA[def is_enabled(self, ${1:<args>}):
+	${2:pass}]]></content>
 	<tabTrigger>is_enabled</tabTrigger>
 	<description>commands.is_enabled</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

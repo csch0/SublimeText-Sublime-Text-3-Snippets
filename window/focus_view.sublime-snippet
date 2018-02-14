@@ -3,4 +3,4 @@
 	<tabTrigger>window_focus_view</tabTrigger>
 	<description>window.focus_view</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

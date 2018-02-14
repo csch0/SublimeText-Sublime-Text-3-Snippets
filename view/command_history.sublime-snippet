@@ -3,4 +3,4 @@
 	<tabTrigger>view_command_history</tabTrigger>
 	<description>view.command_history</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

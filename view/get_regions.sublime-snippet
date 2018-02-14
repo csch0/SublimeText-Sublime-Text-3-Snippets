@@ -3,4 +3,4 @@
 	<tabTrigger>view_get_regions</tabTrigger>
 	<description>view.get_regions</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

@@ -3,4 +3,4 @@
 	<tabTrigger>window_lookup_symbol_in_index</tabTrigger>
 	<description>window.lookup_symbol_in_index</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

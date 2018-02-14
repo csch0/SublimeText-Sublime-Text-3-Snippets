@@ -3,4 +3,4 @@
 	<tabTrigger>sublime_log_result_regex</tabTrigger>
 	<description>sublime.log_result_regex</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

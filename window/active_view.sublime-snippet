@@ -3,4 +3,4 @@
 	<tabTrigger>window_active_view</tabTrigger>
 	<description>window.active_view</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

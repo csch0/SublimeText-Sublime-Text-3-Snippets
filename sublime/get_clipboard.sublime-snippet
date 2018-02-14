@@ -3,4 +3,4 @@
 	<tabTrigger>sublime_get_clipboard</tabTrigger>
 	<description>sublime.get_clipboard</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

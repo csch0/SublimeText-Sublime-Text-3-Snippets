@@ -3,4 +3,4 @@
 	<tabTrigger>sublime_load_settings</tabTrigger>
 	<description>sublime.load_settings</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

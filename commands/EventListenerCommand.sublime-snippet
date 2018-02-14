@@ -1,8 +1,7 @@
 <snippet>
-	<content><![CDATA[class $1Command(sublime_plugin.EventListener):
-
-	$0]]></content>
+	<content><![CDATA[class ${1:Example}(sublime_plugin.EventListener):
+	${2:pass}]]></content>
 	<tabTrigger>EventListener</tabTrigger>
 	<description>sublime_plugin.EventListener</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

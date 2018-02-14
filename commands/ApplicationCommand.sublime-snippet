@@ -1,9 +1,7 @@
 <snippet>
-	<content><![CDATA[class $1Command(sublime_plugin.ApplicationCommand):
-
-	def run(self):
-
-		$0]]></content>
+	<content><![CDATA[class ${1:Example}Command(sublime_plugin.ApplicationCommand):
+	def run(self, ${2:<args>}):
+		${3:pass}]]></content>
 	<tabTrigger>ApplicationCommand</tabTrigger>
 	<description>sublime_plugin.ApplicationCommand</description>
 	<scope>source.python</scope>

@@ -3,4 +3,4 @@
 	<tabTrigger>sublime_message_dialog</tabTrigger>
 	<description>sublime.message_dialog</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

@@ -3,4 +3,4 @@
 	<tabTrigger>window_active_group</tabTrigger>
 	<description>window.active_group</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

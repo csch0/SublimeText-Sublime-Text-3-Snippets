@@ -3,4 +3,4 @@
 	<tabTrigger>view_is_dirty</tabTrigger>
 	<description>view.is_dirty</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

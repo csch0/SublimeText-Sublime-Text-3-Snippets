@@ -3,4 +3,4 @@
 	<tabTrigger>window_show_input_panel</tabTrigger>
 	<description>window.show_input_panel</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>

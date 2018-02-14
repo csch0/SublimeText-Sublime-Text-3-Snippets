@@ -3,4 +3,4 @@
 	<tabTrigger>view_set_read_only</tabTrigger>
 	<description>view.set_read_only</description>
 	<scope>source.python</scope>
-	</snippet>
+</snippet>
